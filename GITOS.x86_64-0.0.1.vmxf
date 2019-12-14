@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 d7 18 b0 5a 0d ef 72-19 45 c2 43 89 00 79 ce</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">GITOS.x86_64-0.0.1.vmx</vmxPathName></VM></Foundry>
